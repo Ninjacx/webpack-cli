@@ -10,7 +10,7 @@
   export default {
     data(){
       return {
-          text:'abcd'
+          text:'a1'
       }
     }
   }

@@ -50,6 +50,7 @@ var res = {
     ]
 }
 if(is_dev){
+  res.devtool = '#cheap-module-eval-source-map'
   res.devServer={
     port:'8000',
     host:'0.0.0.0',

@@ -1,0 +1,6 @@
+1. npm i webpack vue vue-loader  安装 webpack vue 和 vueloader
+2. url-loader 处理图片 use-> options : {  name:'[name][hash].[ext]' }
+   css-loader 处理引入的样式文件，style-loader 处理行间样式文件
+
+3.npm i webpack-dev-server --save-dev  本地服务器调试 
+安装cross-env  区分开发与生产
