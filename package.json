@@ -22,8 +22,12 @@
     "webpack-dev-server": "^2.11.3"
   },
   "dependencies": {
+    "autoprefixer": "^9.4.7",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
     "cross-env": "^5.2.0",
     "css-loader": "^2.1.0",
+    "postcss-loader": "^3.0.0",
     "vue-template-compiler": "^2.6.6"
   }
 }
