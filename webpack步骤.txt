@@ -1,8 +1,10 @@
-1. npm i webpack vue vue-loader  安装 webpack vue 和 vueloader
-2. url-loader 处理图片 use-> options : {  name:'[name][hash].[ext]' }
-   css-loader 处理引入的样式文件，style-loader 处理行间样式文件
+1. npm i webpack vue vue-loader  锟斤拷装 webpack vue 锟斤拷 vueloader
+2. url-loader 锟斤拷锟斤拷图片 use-> options : {  name:'[name][hash].[ext]' }
+   css-loader 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷式锟侥硷拷锟斤拷style-loader 锟斤拷锟斤拷锟叫硷拷锟斤拷式锟侥硷拷
 
-3.npm i webpack-dev-server --save-dev  本地服务器调试 
-安装cross-env  区分开发与生产
+3.npm i webpack-dev-server --save-dev  锟斤拷锟截凤拷锟斤拷锟斤拷锟斤拷锟斤拷
+锟斤拷装cross-env  锟斤拷锟街匡拷锟斤拷锟斤拷锟斤拷锟斤拷
 
 5. npm i postcss-loader autoprefixer babel-loader babel-core
+
+6.npm install extract-text-webpack-plugin 鈥搒ave-dev   鎶界css鍗曠嫭鍑烘潵

@@ -1,0 +1,19 @@
+body{
+  background-image: url(1.png);
+  background-size: 100%;
+  -webkit-transform:rotate(-107deg);
+          transform:rotate(-107deg);
+}
+
+#test{
+    color: red;
+    font-size: 20px;
+    /* transform:rotate(-107deg); */
+}
+
+#child{
+    color: red;
+    font-size: 20px;
+    -webkit-transform:rotate(-107deg);
+            transform:rotate(-107deg);
+}
